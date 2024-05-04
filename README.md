@@ -55,4 +55,8 @@ To use this project, clone the repository and open the `index.html` file in your
 
 ## Acknowledgments
 
-- [Bootstrap](https://getbootstrap.com/) <!-- Acknowledge Bootstrap for styling -->
+- [Bootstrap](https://getbootstrap.com/)
+
+ ## 🔗 Link for contact:-
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandaraj-t-n-834189173/)
